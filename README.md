@@ -1,7 +1,7 @@
-# MDNAG_GaoJiajie
-MDNAG graph neural network method for potential disease-metabolite associations prediction
+# DMNAG_GaoJiajie
+DMNAG graph neural network method for potential disease-metabolite associations prediction
 
-# MDNAG for disease-metabolite associations prediction
+# DMNAG for disease-metabolite associations prediction
 
 # Dependecies
 - Python 3.10.9
